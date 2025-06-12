@@ -106,16 +106,6 @@ http://127.0.0.1:5000/
 
 ![sample-prediction](https://github.com/user-attachments/assets/917ad49b-98cd-41c4-bd66-e95a3bb374f6)
 
-## 🛠 Improvements to Consider
-
-- [ ] Add dropdown auto-filters by company
-- [ ] Display model accuracy metrics
-- [ ] Upload dataset feature for bulk predictions
-- [ ] Save prediction logs for user reference
-- [ ] Deploy on platforms like Render or Heroku
-
----
-
 ## 📃 License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
