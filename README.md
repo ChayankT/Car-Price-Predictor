@@ -102,9 +102,9 @@ http://127.0.0.1:5000/
 
 ## 📸 Screenshots
 
-*(Add your project screenshots here for better presentation)*
+![demo](https://github.com/user-attachments/assets/5aa61900-cea4-4e11-8c44-ed5682f16f38)
 
----
+![sample-prediction](https://github.com/user-attachments/assets/917ad49b-98cd-41c4-bd66-e95a3bb374f6)
 
 ## 🛠 Improvements to Consider
 
